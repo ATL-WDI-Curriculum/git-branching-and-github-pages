@@ -141,7 +141,7 @@ tip of the branch.
 
   `git checkout master`
 
-  Switch back and forth between the two with atom open.
+  Switch back and forth between the two with your text editor open.
 
 - Switch back to master and make a change to branching.txt
   On master, change the first line
